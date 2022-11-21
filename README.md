@@ -1,2 +1,2 @@
 # blog.lazycatlabs.com-giscus
-This repository for giscus on blog.lazycatlabs.com
+This repository for giscus and external assets on blog.lazycatlabs.com
